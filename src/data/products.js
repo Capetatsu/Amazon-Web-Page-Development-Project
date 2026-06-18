@@ -15,7 +15,7 @@ export const products = [
   },
   {
     id: 3,
-    title: "Laptop Stand",
+    title: "Laptop Mouse",
     price: 899,
     quantity: 0,
     image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46"
