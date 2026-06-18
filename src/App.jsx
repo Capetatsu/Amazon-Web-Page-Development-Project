@@ -88,6 +88,9 @@ function App() {
           </>
         )}
       </div>
+      <footer className="credits">
+        Made with React • Designed & Developed by Mayank
+      </footer>
     </>
   );
 }
