@@ -8,3 +8,11 @@
 body {
   background: #eaeded;
 }
+.credits {
+  background-color: #131921;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+  font-size: 14px;
+}
